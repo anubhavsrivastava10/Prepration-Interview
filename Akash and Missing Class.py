@@ -5,4 +5,4 @@ while t:
     if n<6:
         print(0)
     else:
-        print(n//6)
+        print(n//7)
